@@ -13,3 +13,5 @@ printer-[0-9]*_[0-9]*.cfg
 *.csv
 *.bkp
 *.zip
+*.csv
+*.zip
